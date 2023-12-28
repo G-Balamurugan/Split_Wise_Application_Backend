@@ -1,4 +1,4 @@
-http://localhost:8081/httpmethod/group-list/1	  **Get**	Group List			
+http://localhost:8081/httpmethod/group-list/1	  **Get**	Group List			"\n"
 http://localhost:8081/httpmethod/group-details/5   **Get**	Group Details			
 http://localhost:8081/httpmethod/update/group/2	  **Put**	Update the group			
 http://localhost:8081/httpmethod/group-member/1	 **Get**	Group members present			
