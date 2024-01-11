@@ -1,3 +1,27 @@
+# Expense Management and Splitting Application
+
+Welcome to our intuitive expense management and splitting application! This versatile tool simplifies the creation and management of groups, facilitating seamless expenditure distribution among group members. Users can effortlessly manage group expenses and personalize their view with comprehensive filtering options. Not just limited to group spending, the program efficiently handles non-group expenditures as well.
+
+## Key Features
+
+- **Group Management:** Create and manage groups effortlessly.
+  
+- **Expenditure Distribution:** Smoothly distribute expenses among group members.
+  
+- **Filtering Options:** Personalize your view with detailed filtering options.
+
+## Non-Group Spending
+
+Effectively segregate and manage non-group spending alongside group expenses.
+
+## Report Summaries
+
+Gain a comprehensive understanding of your financial activity with thorough report summaries.
+
+**Front-End repository:** https://github.com/G-Balamurugan/Splitwise_Application_UI
+
+
+
 # API Endpoints
 
 ## Group Operations
